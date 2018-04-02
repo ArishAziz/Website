@@ -10,3 +10,5 @@ March 1st : Website Launced
 21/3/2018 : Loader Removed (Buggy).   
 2/4/2018  : Submenu Margin Removed.   
 3/4/2018  : Bugs and Improvements.   
+3/4/2018  : Placed Offtopic Icon and Created Page.   
+3/4/2018  : Sicky Navigation Bar.
