@@ -11,4 +11,9 @@ March 1st : Website Launced
 2/4/2018  : Submenu Margin Removed.   
 3/4/2018  : Bugs and Improvements.   
 3/4/2018  : Placed Offtopic Icon and Created Page.   
-3/4/2018  : Sicky Navigation Bar.
+3/4/2018  : Sicky Navigation Bar.   
+3/4/2018  : Theme Color Changed Text:#777777 Background:#F7F6F6 Hover:#E2E5E6/#222222.  
+3/4/2018  : Andriod App Launched Ver 1.0.1.
+3/4/2018  : Logo Changed / Used in Social Media Platforms for Covers and Profile.  
+3/4/2018  : Added Offtopic With Sticky Navigation Menu.  
+
